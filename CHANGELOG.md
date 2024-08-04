@@ -1,4 +1,7 @@
 
+## v0.1.0-rc.2 (2024-08-04)
+
+
 ## v0.1.0-rc.1 (2024-08-04)
 
 - feat: print &#34;Hello World&#34; ([`5482184`](https://github.com/florianfischer91/semver-test/commit/548218445731ef676d81c892d45272b04cdfe3b6))
