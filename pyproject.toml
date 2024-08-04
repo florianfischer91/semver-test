@@ -41,6 +41,6 @@ default_bump_level = 0
 # ignore_token_for_push = false
 # insecure = false
 
-# [tool.semantic_release.publish]
+[tool.semantic_release.publish]
 # dist_glob_patterns = ["dist/*"]
-# upload_to_vcs_release = false
+upload_to_vcs_release = false
